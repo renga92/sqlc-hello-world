@@ -1,0 +1,1 @@
+# sqlc-hello-world
